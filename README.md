@@ -3,7 +3,7 @@ This is the repository for the dataset of bibliographic metadata used in the pap
 
 ## A Bibliometric Perspective on AI Research for Job-Résumé Matching
 <!--- by Sergio Rojas-Galeano, Jorge Posada and Esteban Ordoñez -->
-(c) 2022
+by Sergio Rojas-Galeano, Jorge Posada and Esteban Ordoñez (c) 2022
 
 This study analyses the literature that addresses the application of text mining to job recruitment, with a focus on the task of job-résumé matching. Unlike a traditional literature review, the bibliometric approach allows us to offer a multifaceted assessment of the evolution of research frontiers on this subject. Specifically, we describe the following aspects:
 
