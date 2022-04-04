@@ -5,7 +5,7 @@ This is the repository for the dataset of bibliographic metadata used in the pap
 <!--- by Sergio Rojas-Galeano, Jorge Posada and Esteban Ordoñez -->
 by Sergio Rojas-Galeano, Jorge Posada and Esteban Ordoñez (c) 2022
 
-This study analyses the literature that addresses the application of text mining to job recruitment, with a focus on the task of job-résumé matching. Unlike a traditional literature review, the bibliometric approach allows us to offer a multifaceted assessment of the evolution of research frontiers on this subject. Specifically, we describe the following aspects:
+The study analyses the literature that addresses the application of text mining to job recruitment, with a focus on the task of job-résumé matching. Unlike a traditional literature review, the bibliometric approach allows for a multifaceted assessment of the evolution of research frontiers on this subject, including the following aspects:
 
  1. Performance indicators of publication dynamics from a historical perspective, including trends of frequent terms, productivity and citation scores.
  
